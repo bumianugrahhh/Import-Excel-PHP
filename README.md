@@ -9,4 +9,4 @@ All employees in Buol District in the attendance process still use mobile applic
 Accelerate employee performance by 20% in inputting attendance recap data to the Buol District staffing website.
 
 # Format Import
-![alt text](https://github.com/bumianugrahhh/Import-Excel-PHP/blob/main/Report%20Kantor%20abesn.xlsx)
+![alt text](https://github.com/bumianugrahhh/Import-Excel-PHP/blob/main/Rekap%20Absen%20Kantor.png)
